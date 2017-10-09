@@ -1,10 +1,5 @@
 ﻿// Upgrade NOTE: replaced '_Object2World' with 'unity_ObjectToWorld'
 
-/// <SUMMARY>
-/// This Shader provides the functionality for fading out within a radius
-/// All objects that
-
-
 Shader "Object Fading/Radial Fading"
 {
 	Properties
